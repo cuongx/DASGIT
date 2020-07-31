@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAS.DAL.Interface\DAS.DAL.Interface.csproj" />
+    <ProjectReference Include="..\DAS.Domain\DAS.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

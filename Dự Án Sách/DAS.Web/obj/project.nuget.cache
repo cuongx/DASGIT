@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "57Zlj7gqlR3pLDFbpqJlupH6YfbJPstgTIZPFnjbY6YWVZ1WOQmLgxJck4Dqxi8vD1kEgXBAKK/YDakAx44D+g==",
+  "success": true,
+  "projectFilePath": "F:\\Dự Án Sách\\DAS.Web\\DAS.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
