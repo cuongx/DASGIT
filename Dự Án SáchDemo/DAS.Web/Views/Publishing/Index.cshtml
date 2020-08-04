@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = ViewBag.Title;
+}
+<div class="row">
+    <h2 class="title-1 m-b-25">Publishing Manamengent</h2>
+    <div class="col-12 mb-3">
+        <a href="javascript:void(0);" class="au-btn au-btn-icon au-btn--green au-btn--small" onclick="publishing.openAddEditPublishing()">
+            <i class="zmdi zmdi-plus"></i>Create
+        </a>
+    </div>
+    <div class="table-responsive table--no-card m-b-40">
+        <table id="tbPublishing" class="table table-bordered table-striped table-earning">
+            <thead>
+                <tr>
+                    <th>PublishingId</th>
+                    <th>Publishing Name</th>
+                    <th>Books</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Modal -->
+<div id="addEditPublishing" class="modal fade" data-backdrop="false" role="dialog" style="z-index:9999">
+    <div class="modal-dialog modal-lg position-sticky">
+        <form id="frmAddEditCategory">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Add New Category</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <input hidden id="PublishingId" name="PublishingId">
+                <div class="modal-body">
+                    <div class="row form-group">
+                        <div class="col-3">
+                            <label>Publishing Name</label>
+                        </div>
+                        <div class="col-9">
+                            <input type="text" id="PublishingName" name="PublishingName" class="form-control" data-rule-required="true">
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+                    <a href="javascript:;" class="btn btn-danger" onclick="publishing.save()">Save</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/publishing.js" asp-append-version="true"></script>
+}
