@@ -14,7 +14,7 @@ book.drawTable = function () {
                          <td>${v.bookName}</td>
                          <td><img src='~/images/${v.avatar}' width='80' height='90'/></td>
                             <td>${v.updateDay}</td>
-                             <td>${v.au}</td>
+                             <td>${v.authorId}</td>
                                <td>${v.categoryId}</td>
                                  <td>${v.publishingId}</td>
                                     <td>${v.description}</td>                                    
