@@ -1,0 +1,14 @@
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.DAL.deps.json
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.DAL.dll
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.csprojAssemblyReference.cache
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.AssemblyInfoInputs.cache
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.AssemblyInfo.cs
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.DAL.Interface.dll
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.Domain.dll
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.DAL.pdb
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.DAL.Interface.pdb
+F:\Dự Án Sách\DAS.DAL.Respository\bin\Debug\netstandard2.0\DAS.Domain.pdb
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.csproj.CopyComplete
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.dll
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.pdb
+F:\Dự Án Sách\DAS.DAL.Respository\obj\Debug\netstandard2.0\DAS.DAL.csproj.CoreCompileInputs.cache

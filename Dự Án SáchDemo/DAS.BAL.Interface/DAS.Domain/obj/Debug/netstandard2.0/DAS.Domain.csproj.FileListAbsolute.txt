@@ -1,0 +1,9 @@
+F:\Dự Án Sách\DAS.Domain\bin\Debug\netstandard2.0\DAS.Domain.deps.json
+F:\Dự Án Sách\DAS.Domain\bin\Debug\netstandard2.0\DAS.Domain.dll
+F:\Dự Án Sách\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.csprojAssemblyReference.cache
+F:\Dự Án Sách\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.AssemblyInfoInputs.cache
+F:\Dự Án Sách\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.AssemblyInfo.cs
+F:\Dự Án Sách\DAS.Domain\bin\Debug\netstandard2.0\DAS.Domain.pdb
+F:\Dự Án Sách\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.dll
+F:\Dự Án Sách\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.pdb
+F:\Dự Án Sách\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.csproj.CoreCompileInputs.cache

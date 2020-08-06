@@ -1,0 +1,14 @@
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.BAL.Interface.deps.json
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.BAL.Interface.dll
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.BAL.Interface.pdb
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.Domain.dll
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.Domain.pdb
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.csprojAssemblyReference.cache
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.csproj.CoreCompileInputs.cache
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.AssemblyInfoInputs.cache
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.AssemblyInfo.cs
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.csproj.CopyComplete
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.dll
+F:\Dự Án Sách\DAS.BAL.Interface\obj\Debug\netstandard2.0\DAS.BAL.Interface.pdb
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.DAL.Interface.dll
+F:\Dự Án Sách\DAS.BAL.Interface\bin\Debug\netstandard2.0\DAS.DAL.Interface.pdb

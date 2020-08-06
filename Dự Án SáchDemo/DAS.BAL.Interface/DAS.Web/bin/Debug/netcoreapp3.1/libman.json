@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+
+    {
+      "library": "bootbox.js@5.4.0",
+      "destination": "wwwroot/vendor/bootbox/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.11",
+      "destination": "wwwroot/vendor/jquery-validation-unobtrusive/"
+    },
+    {
+      "library": "jquery-validate@1.19.2",
+      "destination": "wwwroot/vendor/jquery-validate/"
+    }
+  ]
+}

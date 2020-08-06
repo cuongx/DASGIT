@@ -1,0 +1,37 @@
+﻿@*@inject Microsoft.AspNetCore.Identity.SignInManager<Appliac>;*@
+    <!DOCTYPE html>
+        <html>
+        <head>
+            <meta name="viewport" content="width=device-width" />
+            <title>@ViewBag.Title</title>
+            <!--===============================================================================================-->
+            <link rel="icon" type="image/png" href="~/images/icons/favicon.ico" />
+            <link href="~/vendor2/bootstrap/css/bootstrap.css" rel="stylesheet" />
+            <link href="~/fonts2/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet" />
+            <link href="~/fonts2/Linearicons-Free-v1.0.0/icon-font.min.css" rel="stylesheet" />
+            <link href="~/vendor2/animate/animate.css" rel="stylesheet" />
+            <link href="~/vendor2/css-hamburgers/hamburgers.css" rel="stylesheet" />
+            <link href="~/vendor2/animate/animate.css" rel="stylesheet" />
+            <link href="~/vendor2/select2/select2.css" rel="stylesheet" />
+            <link href="~/css/util.css" rel="stylesheet" />
+            <link href="~/css/main.css" rel="stylesheet" />
+
+            <!--===============================================================================================-->
+
+        </head>
+        <body>
+            <div>
+                @RenderBody()
+            </div>
+            <script src="~/vendor/jquery-3.2.1.min.js"></script>
+            <script src="~/vendor/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+            <script src="~/vendor/jquery-validate/jquery.validate.js"></script>
+            <!--===============================================================================================-->          
+            <script src="~/vendor2/bootstrap/js/popper.js"></script>
+            <script src="~/vendor2/bootstrap/js/bootstrap.js"></script>        
+            <script src="~/vendor2/select2/select2.js"></script>
+            <script src="~/js2/main.js"></script>
+            @RenderSection("Scripts", required: false)
+
+        </body>
+    </html>
